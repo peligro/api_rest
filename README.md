@@ -1,10 +1,9 @@
-<!DOCTYPE html>
-    <html>
-        <head>
-            <meta charset="utf-8" />
-            <title>Ejemplo API Rest con PHP, usando Slim Framewor</title>
-        </head>
-        <body>
-            <h1>Ejemplo API Rest con PHP, usando Slim Framewor</h1>
-        </body>
-    </html>
+Ejemplo Ejemplo API Rest con PHP, usando Slim Framework
+
+Este es un archivo de ejemplo de una API Rest con PHP, de manera básica, aplicando 4 Endpoints de petición, con los métodos HTTP :
+
+GET
+POST
+PUT
+DELETE
+
